@@ -1,0 +1,4 @@
+CREATE DATABASE SQLAcademiVPU_011
+GO
+
+SELECT * FROM sys.databases;
